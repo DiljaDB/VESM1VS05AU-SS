@@ -3,7 +3,7 @@
 # Diljá Dögg B.
 
 
-#h1 Simon Says
+h1 Simon Says
 
 Video :
 Hönnunar file:
