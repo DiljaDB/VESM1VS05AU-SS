@@ -19,18 +19,25 @@ https://github.com/DiljaDB/VESM1VS05AU/blob/main/Simonsays.ino
 Myndir.
 Lóðun:
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_120526.jpg
+
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_132243.jpg
+
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_120603.jpg
+
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_120624.jpg
 
 Tenging við takka:
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_131849.jpg
+
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_131854.jpg
 
 Box að utan:
 https://github.com/DiljaDB/VESM1VS05AU/blob/main/20230201_120250.jpg
 
 Box að innan:
+
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_120322.jpg
+
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_120344.jpg
+
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_120415.jpg
