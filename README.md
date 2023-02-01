@@ -45,3 +45,7 @@ https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_120322.jpg
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_120344.jpg
 
 https://github.com/DiljaDB/VESM1VS05AU-SS/blob/main/20230201_120415.jpg
+
+Video:
+
+https://youtube.com/shorts/2DyLjDzo-OQ?feature=share.
