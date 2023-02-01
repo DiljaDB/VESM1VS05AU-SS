@@ -1,13 +1,20 @@
 # VESM1VS05AU, Verksmiðja-vor-spönn-1-2023-TK. Diljá Dögg B.
-#h1 Verkefni : Simon Says
+# Verkefni : Simon Says
 
-#h2 Markmið Verkefnins er að búa til Simon Say's kassa.
-#p Það var lóðað víra við breadbord,13stk (5stk GND), tveir af þeim eru vírar tengdir við hátalara. Hinir endanir  á vírunum voru klemdi á haus sem smellur uppá Takkana sem eru með LED peru og viðnámi. 2 hedderar voru líka lóðaðir á breadboarin var svo smellt í arduino sem er með innbygaðn kóða sem er með leik reglur leiksins.
+## Markmið Verkefnins er að búa til Simon Say's kassa.
+
+<br>
+
+Það var lóðað víra við breadbord,13stk (5stk GND), tveir af þeim eru vírar tengdir við hátalara. Hinir endanir  á vírunum voru klemdi á haus sem smellur uppá Takkana sem eru með LED peru og viðnámi. 2 hedderar voru líka lóðaðir á breadboarin var svo smellt í arduino sem er með innbygaðn kóða sem er með leik reglur leiksins.
 
 Hönnunar file:
+
 ![simonsaysbox](https://user-images.githubusercontent.com/122012194/216053294-a05d8a26-6851-4975-a786-a56e93d631cc.svg)
 
+---
+
 **Lóðun**
+
 ![20230201_132243](https://user-images.githubusercontent.com/122012194/216055429-b38f95b1-0f59-4456-b0bb-a4bd0b3d822e.jpg)
 ![20230201_120526](https://user-images.githubusercontent.com/122012194/216051555-f1fdd29a-cfd0-40fb-82f8-0da8f1164005.jpg)
 ![20230201_120603](https://user-images.githubusercontent.com/122012194/216051571-155baa54-dc9c-489b-b6f9-b5940d41c4b0.jpg)
